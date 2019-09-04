@@ -1,0 +1,11 @@
+{
+    "name": "afterpay/afterpay-sdk",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Dzmitry Urbanovich",
+            "email": "dzmitry.urbanovich@binatomic.com"
+        }
+    ],
+    "require": {}
+}
