@@ -7,5 +7,8 @@
             "email": "dzmitry.urbanovich@binatomic.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {"Afterpay\\": "code/Afterpay/"}
+    }
 }
